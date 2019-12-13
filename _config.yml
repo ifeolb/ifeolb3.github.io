@@ -1,7 +1,7 @@
 # Site settings
-title: Brendan Thompson's Website
-description: Brendan Thompson's personal blog
-# url: "brendev.co"
+title: Ifeoluwa Babatunde's Website
+description: Ifeoluwa Babatunde's personal blog
+# url: "ifeoluwababatunde.com"
 permalink: pretty
 
 # Sass
@@ -16,8 +16,8 @@ sass:
 #   Projects: /projects/
 
 # User settings
-username: Brendan Thompson
-user_title: Software Developer
-email: brenthompson2@gmail.com
+username: Ifeoluwa Babatunde
+user_title: Data Scientist
+email: ifebabatunde15@gmail.com
 
 exclude: ['package.json', 'src' , 'node_modules']
