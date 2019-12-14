@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-excerpt: "About Brendan Thompson"
+excerpt: "About Ifeoluwa Babatunde"
 permalink: /about
 ---
 
